@@ -12,7 +12,7 @@ Steps followed:
 3.	Attempt to read the file content as a CSV file using pd.read_csv, 
 4.	Manually create a Pandas DataFrame (df) with the provided data.
 5.	Download the "word2vec-google-news-300" model using gensim.downloader.
-6.	Use the downloaded Word2Vec model to calculate the similarity between two words ('absorb' and 'withdraw').
+6.	Use the downloaded Word2Vec model to calculate the similarity between two words .
 7.	Load the 'en_core_web_lg' spaCy model.
 8.	Tokenize and preprocess the sentences from the DataFrame.
 9.	Train a Word2Vec model on the tokenized sentences.
